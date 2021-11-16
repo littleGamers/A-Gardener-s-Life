@@ -2,20 +2,18 @@
 
 # A Gardener's Life
 
+Welcome!
 
-ברוך הבא!
-  
-במשחק A Gardener's life תשחק בתור חקלאי מתחיל שנחוש ללמוד הכל על גידול צמחים.
-  
-עליך לטפל בצמחים על מנת לשמור עליהם חיים ולגרום להם לצמחוק ולהתרבות.
-  
-רק בעזרת טיפול מסור הכולל השקייה, דישון והדברה הצמחים יגדלו לתפארת והחווה שלך תתפתח.
-  
-מוכן להפוך לחקלאי הכי מצליח במדינה?
-    
+In the game A Gardener's life you will play as a novice farmer who is determined to learn all about growing plants.
 
-פרטים נוסף ב[דף הרכיבים.](A%20Gardener%20Life.pdf)
-  
-## **קדימה, לעבודה!**
+You need to take care of the plants in order to keep them alive and make them grow and reproduce.
 
-</div>
+Only with the help of dedicated care that includes watering, fertilizing and pest control
+  
+ will the plants grow to glory and your farm will develop.
+
+Ready to become the most successful farmer in the country?
+
+More details on the components page.
+
+Come on, get to work!
